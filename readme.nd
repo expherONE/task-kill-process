@@ -1,0 +1,7 @@
+//--    Listado de procesos y eliminacion con batch
+//--    ejecutar el comando
+//--    tasklist > /.procesos.txt 
+//--    y buscar los procesos que se deseen terminar y copiarlos al batch
+//--    y ejecutar load.bat
+//--    recuerda modificar los pid en base a los programas que no necesites y al ejecutar el batch
+//--    puedes tener mas recursos para la PC. Saludos!!!
