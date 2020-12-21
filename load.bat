@@ -1,3 +1,4 @@
+::El PID debe corresponder a tu proceso que quieres eliminar.
 taskkill /PID 5344 /F
 taskkill /PID 5352 /F
 taskkill /PID 5368 /F
